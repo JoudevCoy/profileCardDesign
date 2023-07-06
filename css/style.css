@@ -57,10 +57,10 @@ body {
 
 @keyframes fly {
   0%, 100% {
-   margin-top: 0%;
+   margin-top: 0px;
   }
   50% {
-   margin-top: -20%;
+   margin-top: -40px;
   }
 }
 
